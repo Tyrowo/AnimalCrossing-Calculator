@@ -3,11 +3,11 @@ For given recipe requirements, this calculator will determine how many component
 
 You'll have to input your inventory size (20, 30, or 40), how many spaces of your inventory are taken, at least one recipe component, and how many of that component will stack in your inventory
 
-
+_______________________________________________
 Below are planning notes for the file
 the goal is to create a calculator that will give you the ideal number of ingredients to make
 a full inventory of items
-
+_______________________________________________
 inventory capacities are 20, 30, or 40. Need to be able to select for these.
 would change the picture of your inventory to 20, 30, or 40.
 
